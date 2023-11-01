@@ -25,8 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/A-bhiSheKumar/collegiateVoice/blob/main/voice.png?raw=true)
-
+![Screen Shot](https://github.com/A-bhiSheKumar/collegiateVoice/blob/main/College.png?raw=true)
 - **Search Functionality:**
   - Users can search for specific colleges based on various criteria.
 - **Post Management:**
