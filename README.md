@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](https://drive.google.com/uc?export=download&id=1hOLN7xL0OED2-_oBqN_xxMZ2ZvXOW4lL)
+![Screen Shot](https://github.com/A-bhiSheKumar/collegiateVoice/blob/main/voice.png?raw=true)
 
 - **Search Functionality:**
   - Users can search for specific colleges based on various criteria.
